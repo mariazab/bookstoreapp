@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Book Store</string>
+
+    <!-- Labels for item in list -->
+    <string name="price">Price:\ </string>
+    <string name="quantity">Quantity:\ </string>
+
+    <!-- Labels for buttons -->
+    <string name="order">Order</string>
+    <string name="sale">Sale</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+
+    <!-- Label for menu option that goes to add a book activity & from edit activity -->
+    <string name="action_add_item">Add a Book</string>
+    <string name="edit_title">Edit Book</string>
+
+    <!-- Label for overflow menu option that inserts fake data -->
+    <string name="action_insert_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all data -->
+    <string name="action_delete_all">Delete All</string>
+
+    <!-- Laber for overflow menu that deletes one item -->
+    <string name="action_delete">Delete</string>
+
+    <!--Labels for empty view -->
+    <string name="empty_view_title">No books found</string>
+    <string name="empty_view_subtitle">Start by adding a book!</string>
+
+    <!-- Labels for details screen -->
+    <string name="details_screen_title">Book Details</string>
+    <string name="book_name">Title:</string>
+    <string name="author">Author:</string>
+    <string name="supplier_name">Supplier:</string>
+    <string name="supplier_number">Phone Number:</string>
+
+    <!-- Hint for typing in text -->
+    <string name="hint">Type here...</string>
+
+    <!-- String for unknown author -->
+    <string name="unknown_author">Unknown Author</string>
+
+    <!-- String for unknown supplier number -->
+    <string name="unknown_number">No number saved</string>
+
+    <!-- Strings for delete dialog -->
+    <string name="delete_dialog">Are you sure you want to delete?</string>
+    <string name="yes">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Strings for discard dialog -->
+    <string name="discard_dialog">Do you want to discard changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+</resources>
